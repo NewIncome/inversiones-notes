@@ -1,0 +1,51 @@
+---Dividendos--- (no recomendable)
+• Declaration Date: Fecha en que anuncian el dividendo
+• Exdividend Date: Fecha limite para comprar la acción para que te alcancen a pagar el dividendo en el siguiente periodo
+* Los dividendos no generan una ganancia real. El dividendo que te pagan se descuenta del valor de la acción
+
+
+---ETF's Exchange Rated Fonts (fondos de inversion)---
+Es un paquete de muchas acciones, o de otros ETF's
+Son de gestion pasiva == Siguen a un Índice, lo copian
+• S&P500: Indice más popular del mundo, sigue a las 500 empresas más importantes de EU.
+• IPC: Bolsa Mexicana de Valores
+
+
+---Acciones---
+• 5 acciones, 5x20 o 1x30+3x20+1x10 o 1x30+2x20+2x15 o 2x30+2x15+1x10
+• Cuánto invertir en la bolsa de tu total (renta variable)?
+    50-80% , el resto en renta fija.
+
+---Dónde invertir? | Brokers---
+GBM+ | Bursanet(de Actinver)
+se abre la uenta con $100 |  Se abre la cuenta con $10mil
+
+• Comisión 0.25%+IVA = 0.32%  X cada compra y venta que hagas. Del valor de la inversion
+• Comisión por transferir dinero a ésa cuenta
+• de L-V
+* Actinver es un banco con buenas tasas por si requieres de un crédito
+* 
+* www.firstrade.com, te muestra todo un análisis de inversiones, del portal de www.morningstar.com sin que pagues cuenta de morningstar
+	Para que compares con tus própios análisis
+
+--Tipo de Órdenes--
+• Market Order(Órden a Mercado)[MKT]:
+    Si es una acción muy popular está bien, a lo más barato disponible
+    Si no es muy popular, no es muy recomendable, puedes llegar a pagar más
+• Limit Order(Órden Límitada):
+    Para establecer un precio límite, al vender o comprar
+    Se mantiene un tiempo límite si no se vende en un cierto tiempo
+• StopLoss, StopLimit
+    Son más para inversiones a corto plazo
+
+
+--Interesting links--
++ https://international.nubank.com.br/es/sobre-nu/
++ 
+
+
+
+
+
+
+
