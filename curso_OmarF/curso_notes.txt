@@ -38,9 +38,31 @@ se abre la uenta con $100 |  Se abre la cuenta con $10mil
 • StopLoss, StopLimit
     Son más para inversiones a corto plazo
 
+--Índices--
+> Beta: Volatilidad, usualmente con respecto al S&P500. Si la referencia(el S&P500 baja o sube 1 ésa acción se movera lo que indica el Beta.
+
+
+--Estrategias y puntos para invertir--
++ Horizonte de inversión: de 3-5 años
+  + NO Invertir antes del reporte trimestral o anual de ganancias
++ Hacer un analisis de los fundamentales de la empresa, antes de comprar sus acciones
+Ánalisi fundamental
++ Hacer TÉSIS DE INVERSIÓN:
+  + Por qué estoy comprando la empresa?
+  + Conocer la competencia
+  + Investigar reportes de a empresa
+  + Investigar noticias dei la empresa, ie.: en Yahoo Finance
+  + Ver los estados de financieros de la empresa
+
+* Day Trading? En México las comisiones de los brokers son elevadas. 0.25% x trans
+* IPO(Initial Public Offering)
+  + Empresas que acaban de salir a la bolsa
+  + Form S1 es un documento de la empresa, similar al reporte anual 10cam
+
 
 --Interesting links--
 + https://international.nubank.com.br/es/sobre-nu/
++ finviz.com/screener  //para buscar acciones por varios tipos/filtros
 + 
 
 
