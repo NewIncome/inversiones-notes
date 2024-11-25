@@ -67,6 +67,151 @@ se abre la uenta con $100 |  Se abre la cuenta con $10mil
 
 
 
+--Value Stocks--
+Son empresas con poco crecimiento, por lo que cotizan barato
+  Se puede consultar, en Google > miltpl.com
+  el S&P500 'PE Ratio' (Price to Earnings)  == el 'multiplo'
+Mientras más alto es el multiplo, más caras estan las empresas (con base a sus utilidades)
+  ie.: si el ratio(multiplo) está a 20, estás comprando a 20 veces las utilidades que tuvieron en promedio el año pasado.
+Es una métrica para saber en general el mercado en cuánto se esta cotizando
+Éso se compara con una emrpesa en especifico
+Si es menor el ratio de una empresa que el del S&P500 signifca que está más barata respecto al mercado.
+Es una buena referencia, pero no para usarse siempre, tambien es bueno compararla consigo misma en diferentes periodos de tiempo
+  ie.: en morningstar > Valuation
+Si fue bajando mucho en su historico puede que se esta convirtiendo de GROWTHstock en VALUEstock
+
+--Growth Stocks--
+Son empresas que crecen a ritmos muy acelerados, sus ventas y sus ganancias son mayores al promedio del mercado
+Normalmente, No van a pagar dividendos porque ese dinero en lugar de darselo al Inversionista lo usan para reinvertir en su propio negocio y seguir creciendo
+Usualmente cotizan a multiplos elevados de PE, de PS
+  //para ver crecimiento general de varias empresas
+  finviz > screener > Valuation : 
+    EPS(Earnings Per Share) next 5Y, muestra el crecimiento en % que han estado teniendo
+      al darle click al filtro los muestra de > o <, los de menor son los que han decrecido
+      y cambia tambien cantidad de años
+    EPS past 5Y, muestra un pronóstico
+Es un indicador para complementar, no es el 100%
+
+--Acción Especulativa--
+Opera bajo perdidas, o ni siquiera ha tenido ventas
+ie.: tikr > empresa>RivianAutomotive
+		Overview >
+		  MarketCAP(MM) == Cotización Actual en el Mercado, lo que vale la empresa, en Miles de Millones de dolares
+		ie.:30,400
+		  para valer éso se esperaría que tenga ventas de ~5, 10, 15MM
+		Financials >
+		  Income Statement == Estado de Resultados (Estados Financieros)
+		    Revenue == sus Ventas en los últimos 12 meses
+		      ie.: vendieron 500MM pero vale 30,000MM, éso es una LOCURA
+		    NetIncome == sus Ganancias, en rojo son perdidas
+		      ie.: (6,999) MM, perdidas masivas
+		        Vendieron 500 y perdieron 7,000
+		      !No es un negocio rentable todavia
+		Valuation >
+		  Trailing Multiples > LMT Price / Sales (P/S) == Precio sobre ventas de los últimos 12 meses
+		    154x == 154 veces ventas
+		  Forward Multiples (Próstico a Futuro) > NTM Price / Sales :
+		    ie.> de 154 -> 8x : que baje de 154 a 8
+	ie.: ésa es una empresa que cotiza a valuaciones ridiculas
+	  la Inversión es meramente Especulativa
+	  los multiplos no van a hacer sentido, la valuación no va a ser sentido, es pura especulación, si no le atinas... la acción salió a 130 y bajo a 33 dlls, llevaba pura bajada a la fecha del curso
+* Éste tipo de empresas que sean no mayor al 5% de tu portafolio
+
+
+---Principales Plataformas de Investigación---
+>>> TIKR.COM
+CAGR => Compounded Anual Growth Rate == Crecimiento anualizado
+Price Return == Rendimiento
+	Overview >
+	  52 Week High == Precio más álto en las últimas 52 semanas
+	  52 Week Low == Precio más bajo en las últimas 52 semanas
+	  Average 3 month daily volume == Dinero en acciones invertido
+	    Osea que es el tope de dinero que podrías invertir en la empresa
+	    * Un volumen álto significa mucho movimiento, se compran y venden muchas acciones, mucha bursatilidad, es fácil de comprar y vender
+	  Shares Outstanding == el número de acciones, nos va a servir para hacer cálculos en la evaluación
+	  MarketCap == valor de la empresa
+	  //(En el 2022 Google valía 1.4 trillones de dlls)
+	  Se menciona el Tipo de Empresa
+	  Descripción de la empresa, qué es lo que hace
+	  Muestra eventos pasados Y Eventos que van a haber en e futuro
+  *Se puede cambiar el idioma dentro de la aplicación
+	News >
+	  noticias de la empresa
+	Financials > == Estados Financieros Consolidados
+	  Se puede cambiar por periodo, LTM == Last Twelve Months
+	  Income Statement == Ganancias
+	  Balance Sheet == Balance general, todo lo que tienen en activos, pasivos, deudas, y al final cuánto les queda
+	  Si les das click a una métrica te la grafica
+	    Puedes graficar varias cosas al mismo tiempo
+	  CashFlow Statement == .. metricas suplementarias importantes
+	  Segments == Ventas en sus diferentes unidades de negocio
+	Valuation >
+	  Multiples == multiplos financieros, en diferentes periodos de tiempo
+	  Street Targets == Estimados de Wallstreet,
+	    los analistas cuánto piensan que debería valer la acción, en promedio, valores optimistas, pesimistas, #Est == número de analstas que han dado su opinion
+		Street Recommendations == acciones recomendadas, cuántos recomiendan comprar, vender,..
+	  Competitors => algunos indicadores de sus competidores
+	Estimates => qué opinan los analistas respecto a diferentes indicadores, ventas a futuro, etc.
+	  *Buena referencia para complementar con nuestro análisis
+	Transcripts => Texto/Docs de Reportes de eventos, conferencas, etc
+	  útil para Filtrar información especifica
+	Filings == nombres especificos de los reportes, ie.: 10-Q, 10-K
+** IMportante, validar la información/números de los reportes con lo que muestran los portales financieros. El oficial es el reporte.
+	Ownership == Quíen tiene más fondos de la empresa
+	  ShareHolders == empresas grandes
+	  Insider Transactions == Personas que trabajan en la empresa, como los directivos. Rojo es que están vendiendo
+  Track INvesting Gurus == para ver el portafolios de inversionistas famosos
+    ie.: Berkshire Hathaway Inc. == el portafolios de Warren Buffet
+  Global Screener == para buscar acciones, como en finviz
+
+>>> FINANCE.YAHOO.COM  
+También tienen la app grátis, con notificaciones, y algunas métricas diferentes
+  * Watchlist
+  * Ideas sobre la competencia
+  * Earnings, Consensus EPS(EarningsPerShare)
+    Espectativas, si las supero, si salió abajo
+  * Análisis financieros, muy consolidados brevemente
+  * Recommendation Trends, recomendaciones de analistas, qué recomiendan y cuántos
+  * Recommendation Rating, Puntuación
+  * Analyst Price Target, Precio Objetivo
+  * Perfil de la empresa
+  Chart
+	*Buena Grafica para comparar acciones. Comparar siempre al S&P500
+	**Si ganas menos que el S&P500, mejor comprar el ETF
+	**La idea es siempre vencer al mercado
+	***Revisar el ETF QQQ, se parece su gráfica a la de Google
+  Statistics
+	Muchas métricas relevantes ya calculadas
+	*Balance Sheet
+	  puedes comparar: TotalCash vs TotalDebt <== su Posición Financiera
+	*Información de las acciones
+  Historical Data
+    > Show: Stock Splits, Si dividieron las acciones
+    		Dividendos
+  Profile
+    Información de la empresa como: dirección, sector, cant. de Empleados, Directivos y cuánto les pagan en sueldo fijo
+*Billion == Mil Millones
+	Descripción, de la empresa
+	Financials, ...mejor en tikr
+	Analysis
+	  *Estimados de crecimiento, en las ganancias
+	Holders
+	  Inversionistas más grandes
+	  > Insider transactions, muestra mejor compras y ventas de acciones de Insiders
+
+>>> TRADINGVIEW.COM
+para ver indicadores más técnicos
+
+>>> SEEKINGALPHA.COM
+  "Editor's Pick" Son los editores recomendados por la página
+  * Tiene límite de vistas al día, de pref abrir en MODO INCOGNITO
+
+*MOAT: Ventaja competitiva duradera. Wide Moat == ventaja muy ámplia
+
+
+
+
+
 
 
 
