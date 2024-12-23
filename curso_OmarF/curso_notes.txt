@@ -210,6 +210,27 @@ para ver indicadores más técnicos
 
 
 
+---Reporte Anual de Ganancias [10-K]---
+Obligacion e todas las empresas que cotizan en la bolsa
+
+https://www.sec.gov/search-filings
+//Search by the "Ticker Symbol", if not found you can google it (ie.: GOOGL).
+//Ó por su 'Página de Inversionistas', "Investor Relations"
+-> 8-K : reportes con actualizaciones importantes que no vienen en los reportes que no vienen en 10-K ni 10-Q (reportes anuales ni trimestrales)
+    ie.: adquirir una Nueva empresa, vender una unidad de negocio (spinoff) osea vender algo que se tiene para separarlo de la empresa
+* Lo ideal: ver el último reporte anual más actual y complementar con los trimestrales
+
+-Table of Contents : Índice-
+Part I
++ Business: Panorama general del negocio, en qué unidades opera, cómo vende, Qué servicios tienen, cómo gana dinero
++ Risk Factors: Factores de riesgo, leerlo Por lo menos la 1a vez que conoces la empresa
++ Legal Proceedings: Demandas, por si hay algo relevante. En cuanto a demandas, si tuvo que pagar monto, ver que no sea demasiado a comparacion de sus ganancias en su Income Statement anual en tikr.com > Fundamental Analysis > Detailed Financials
+Part II
++ Management’s Discussion and Analysis of Financial Condition and Results of Operations : resultados y porque paso lo que pasó
+    - De cada tendencia hay que evaluar si se va a mantener, si van a seguir creciendo, si la competencia les gane el negocio.
++ Financial Statements and Supplementary Data : Para Validar que la informacion de las demás plataformas(ie.: tikr) tienen los mismos valores(éstos cuentan más)
++ 
+
 
 
 
