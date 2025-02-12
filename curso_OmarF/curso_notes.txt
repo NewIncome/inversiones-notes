@@ -233,6 +233,31 @@ Part II
 
 
 
+===-- ANALISIS FUNDAMENTAL m.5 --===
+
+   --- 22a1. Estado de Resultados ---
+En app.tikr.com
+Los importantes son 3:
+  1.- Income Statement / Estado de REsultados
+  2.- Balance Sheet / Balance General
+  3.- Cashflow Statement / Estado de Flujo de Caja
+
+1)
+Revenues	== Ventas  //hay que revisar en qué unidad está
+%Change YoY	== Porcentaje de Cambio (Year Over Year)
+		Cuánto crecieron las ventas con respect al año anterior
+Cost of Goods Sold == Todo lo que te cuesta hacer y entregar tu product, mercadotecnia y nomina no
+
+Gross Profit	== Ganancia Bruta: Revenues - CostOfGoodsSold
+%Gross Margins	== % de crecimiento en margenes, debe de ir creciendo de preferencia = mejorar produccion
+Selling General & Admin Expenses == Gastos no relacionados directamente con el producto, como el personal, marketing, compensaciones, gastos de logistica no directos con el usuario final, etc.,
+R&D Expenses == Gastos para innovación
+
+Operating Income / Income from Operations / EBIT(EarningsBeforeIncome&Taxes) == Ganancia operative
+		Ya restando todos los gastos regulares de la empresa VS las ganancias
+		//Debe de ir creciendo. Si es negativo no es rentable
+Interest Expense == Intereses por deudas
+
 
 
 
